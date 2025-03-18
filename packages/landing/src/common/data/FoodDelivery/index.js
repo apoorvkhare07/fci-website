@@ -261,12 +261,12 @@ export const PRODUCT_CATEGORY = {
   ],
 };
 
-import availableRestaurantImage1 from 'common/assets/image/foodDelivery/SLR.jpg';
-import availableRestaurantImage2 from 'common/assets/image/foodDelivery/TLR.jpg';
-import availableRestaurantImage3 from 'common/assets/image/foodDelivery/Films.jpg';
-import availableRestaurantImage4 from 'common/assets/image/foodDelivery/Accessories.jpg';
-import availableRestaurantImage5 from 'common/assets/image/foodDelivery/Lens.jpg';
-import availableRestaurantImage6 from 'common/assets/image/foodDelivery/Misc.jpg';
+import availableRestaurantImage1 from 'common/assets/image/foodDelivery/SLR.JPG';
+import availableRestaurantImage2 from 'common/assets/image/foodDelivery/TLR.JPG';
+import availableRestaurantImage3 from 'common/assets/image/foodDelivery/Films.JPG';
+import availableRestaurantImage4 from 'common/assets/image/foodDelivery/Accessories.JPG';
+import availableRestaurantImage5 from 'common/assets/image/foodDelivery/Lens.JPG';
+import availableRestaurantImage6 from 'common/assets/image/foodDelivery/Misc.JPG';
 export const AVAILABLE_RESTAURANTS_DATA = {
   title: 'Available Stock',
   posts: [
