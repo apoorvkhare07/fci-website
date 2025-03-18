@@ -20,7 +20,7 @@ const AvailableRestaurants = () => {
               className="post"
               key={`available-restaurant-post-key-${index}`}
             >
-              <NextImage src={image} alt={title} />
+              <NextImage src={image} alt={title} width={350} height={350} />
               <h3>
                 <Link href={link}>
                   <a>{title}</a>

@@ -6,7 +6,7 @@ import Heading from 'common/components/Heading';
 import Text from 'common/components/Text';
 import NextImage from 'common/components/NextImage';
 import Box from 'common/components/Box';
-import mapPin from 'common/assets/image/foodDelivery/banner-map-pin.svg';
+// import mapPin from 'common/assets/image/foodDelivery/banner-map-pin.svg';
 import arrowIcon from 'common/assets/image/foodDelivery/banner-arrow.svg';
 import BannerWrapper from './banner.style';
 import { BANNER_DATA } from 'common/data/FoodDelivery';
@@ -18,7 +18,7 @@ const Banner = () => {
         <Box className="content">
           <Heading as="h2" content={title} />
           <Text as="p" className="paragraph" content={text} />
-          <form action="#" className="bannerForm">
+          {/* <form action="#" className="bannerForm">
             <label htmlFor="location" className="sr-only">
               Your Address
             </label>
@@ -27,8 +27,8 @@ const Banner = () => {
             <button type="submit" className="bannerBtn">
               <img src={arrowIcon?.src} alt="banner button" />
             </button>
-          </form>
-          <Text as="p" className="tagLine" content={tagLine} />
+          </form> */}
+          <Text as="p" className="paragraph" content={tagLine} />
           <Box className="buttonWrap">
             {buttons.map(({ icon, text, title, link }, index) => (
               <Link href={link} key={`banner-button-${index}`}>

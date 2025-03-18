@@ -1,10 +1,10 @@
 import callToActionImage from 'common/assets/image/foodDelivery/call-to-action-1.png';
 export const CALL_TO_ACTION_DATA = {
-  title: 'Your order knocking on \nthe door. Please receive',
-  text: 'Pick one of our stock themes, or create your custom theme \nwith the most advanced theme editor on any online.',
+  title: 'Your vintage camera is ready \nto capture memories',
+  text: 'Browse our curated collection of vintage cameras, or let us help you find \nthe perfect piece for your photography journey.',
   image: callToActionImage,
   link: {
-    label: 'Order More',
+    label: 'Shop Now',
     path: '#',
   },
 };
@@ -29,8 +29,8 @@ export const GALLERY_DATA = {
       path: galleryImage4,
     },
   ],
-  title: 'Let’s take your Delivery Experience to the next level',
-  text: 'Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool. Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool.',
+  title: 'Elevate Your Photography with Vintage Cameras',
+  text: 'Discover the timeless charm of analog photography with our carefully curated collection of vintage cameras. From classic Leicas to iconic Nikons, each piece tells its own story and is ready to help you create yours.',
 };
 
 import featureIcon1 from 'common/assets/image/foodDelivery/feature-icon-1.svg';
@@ -41,37 +41,37 @@ import featureIcon5 from 'common/assets/image/foodDelivery/feature-icon-5.svg';
 import featureIcon6 from 'common/assets/image/foodDelivery/feature-icon-6.svg';
 
 export const QUALITY_FEATURES_DATA = {
-  title: 'Meet our Quality Features',
+  title: 'Why Choose Our Vintage Cameras',
   posts: [
     {
       icon: featureIcon1,
-      title: 'Analytics Business',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: 'Expert Verification',
+      text: 'Every camera is thoroughly inspected and verified by our photography experts.',
     },
     {
       icon: featureIcon2,
-      title: 'Wide Coverage Map',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: 'Nationwide Shipping',
+      text: 'Safe and secure delivery of your vintage cameras across India.',
     },
     {
       icon: featureIcon3,
-      title: 'Artificial Intelligence',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: 'Detailed Condition Reports',
+      text: 'Every camera comes with a comprehensive condition report, including shutter accuracy, light meter functionality, and cosmetic details.',
     },
     {
       icon: featureIcon4,
-      title: 'Largest People',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: 'Large Collection',
+      text: 'Access to one of India\'s largest collections of vintage cameras.',
     },
     {
       icon: featureIcon5,
-      title: 'Trusted & Secure',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: 'Secure Payments',
+      text: '100% secure payment processing and buyer protection.',
     },
     {
       icon: featureIcon6,
-      title: 'Mobile Apps',
-      text: 'We’re driven beyond just finishing the projects. We want to find smart solutions.',
+      title: '7-Day Return Policy',
+      text: 'Easy returns within 7 days if the camera condition doesn\'t match our description or if mishandled during shipping.',
     },
   ],
 };
@@ -108,7 +108,7 @@ import client4 from 'common/assets/image/foodDelivery/client-4.png';
 import client5 from 'common/assets/image/foodDelivery/client-5.png';
 import client6 from 'common/assets/image/foodDelivery/client-6.png';
 export const CLIENTS_DATA = {
-  title: '210,000+ people already use our app on a daily basis',
+  title: '20,000+ photographers trust us for their vintage camera needs',
   images: [
     {
       path: client1,
@@ -134,22 +134,22 @@ export const CLIENTS_DATA = {
 import deliveryProductImage from 'common/assets/image/foodDelivery/deliver-products.png';
 export const DELIVERY_PRODUCT_DATA = {
   sectionContent: {
-    title: 'We deliver our products as fast as superman can do',
-    text: 'Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool.',
+    title: 'We deliver your vintage cameras with utmost care',
+    text: 'Our expert team carefully packages and ships your vintage cameras to ensure they arrive in perfect condition. We understand the value of these precious pieces.',
     image: deliveryProductImage,
   },
   posts: [
     {
-      title: 'Easy to use application',
-      text: 'We’re driven beyond just finishing the projects. We want to find solutions using our website & apps.',
+      title: 'Careful Packaging',
+      text: 'Each camera is carefully packed with premium materials to ensure safe delivery.',
     },
     {
-      title: 'Deliver Food within 30 min',
-      text: 'We’re driven beyond just finishing the projects. We want to find solutions using our website & apps.',
+      title: 'Express Delivery',
+      text: 'Get your vintage camera delivered within 3-5 business days.',
     },
     {
-      title: '100% Reliable with Privacy',
-      text: 'We’re driven beyond just finishing the projects. We want to find solutions using our website & apps.',
+      title: 'Secure Shipping',
+      text: '100% insured shipping with tracking and signature confirmation.',
     },
   ],
 };
@@ -159,30 +159,30 @@ import howWorksImage2 from 'common/assets/image/foodDelivery/how-works-2.png';
 import howWorksImage3 from 'common/assets/image/foodDelivery/how-works-3.png';
 
 export const HOW_WORKS_DATA = {
-  title: 'Let’s see how it works',
+  title: 'How to Get Started',
   posts: [
     {
       icon: howWorksImage1,
-      title: 'Become a Delivery Man',
-      text: "As a delivery driver, you'll make reliable money—working anytime, anywhere.",
+      title: 'Browse Collection',
+      text: "Explore our curated collection of vintage cameras from various brands and eras.",
       link: {
-        label: 'Start Earning',
+        label: 'View Cameras',
         path: '#',
       },
     },
     {
       icon: howWorksImage2,
-      title: 'Become a Partner',
-      text: 'Grow your business and reach new customers by partnering with us.',
+      title: 'Get Expert Advice',
+      text: 'Connect with our photography experts on instagram for personalized recommendations.',
       link: {
-        label: 'Sign up your store',
+        label: 'Contact Us',
         path: '#',
       },
     },
     {
       icon: howWorksImage3,
-      title: 'Try Android/iOS App',
-      text: 'Get the best DoorDash experience with live order tracking.',
+      title: 'Simple Payment & Delivery',
+      text: 'Make your payment to book your camera, then relax while we carefully package and deliver it to your doorstep.',
       link: {
         label: 'Get the app',
         path: '#',
@@ -192,146 +192,142 @@ export const HOW_WORKS_DATA = {
 };
 
 export const PRODUCT_CATEGORY = {
-  title: 'Popular categories by food',
+  title: 'Popular brands',
   list: [
     {
-      label: 'Pizza',
+      label: 'Nikon',
       link: '#',
     },
     {
-      label: 'Breakfast',
+      label: 'Canon',
       link: '#',
     },
     {
-      label: 'Japanese',
+      label: 'Fujifilm',
       link: '#',
     },
     {
-      label: 'Halal',
+      label: 'Leica',
       link: '#',
     },
     {
-      label: 'Dessert',
+      label: 'Pentax',
       link: '#',
     },
     {
-      label: 'Lebanese',
+      label: 'Olympus',
       link: '#',
     },
     {
-      label: 'American',
+      label: 'Sony',
       link: '#',
     },
     {
-      label: 'Sushi',
+      label: 'Panasonic',
       link: '#',
     },
     {
-      label: 'Greek',
+      label: 'Kodak',
       link: '#',
     },
     {
-      label: 'Thai',
+      label: 'Konica',
       link: '#',
     },
     {
-      label: 'Vegetarian',
+      label: 'Mamiya',
       link: '#',
     },
     {
-      label: 'Italian',
+      label: 'Yashica',
       link: '#',
     },
     {
-      label: 'Mexican',
+      label: 'Minolta',
       link: '#',
     },
     {
-      label: 'Indian',
+      label: 'Ilford',
       link: '#',
     },
     {
-      label: 'Chinese',
+      label: 'Vivitar',
       link: '#',
     },
     {
-      label: 'Breakfast',
-      link: '#',
-    },
-    {
-      label: 'Burgers',
+      label: 'Konica',
       link: '#',
     },
   ],
 };
 
-import availableRestaurantImage1 from 'common/assets/image/foodDelivery/available-restaurant-1.png';
-import availableRestaurantImage2 from 'common/assets/image/foodDelivery/available-restaurant-2.png';
-import availableRestaurantImage3 from 'common/assets/image/foodDelivery/available-restaurant-3.png';
-import availableRestaurantImage4 from 'common/assets/image/foodDelivery/available-restaurant-4.png';
-import availableRestaurantImage5 from 'common/assets/image/foodDelivery/available-restaurant-5.png';
-import availableRestaurantImage6 from 'common/assets/image/foodDelivery/available-restaurant-6.png';
+import availableRestaurantImage1 from 'common/assets/image/foodDelivery/SLR.jpg';
+import availableRestaurantImage2 from 'common/assets/image/foodDelivery/TLR.jpg';
+import availableRestaurantImage3 from 'common/assets/image/foodDelivery/Films.jpg';
+import availableRestaurantImage4 from 'common/assets/image/foodDelivery/Accessories.jpg';
+import availableRestaurantImage5 from 'common/assets/image/foodDelivery/Lens.jpg';
+import availableRestaurantImage6 from 'common/assets/image/foodDelivery/Misc.jpg';
 export const AVAILABLE_RESTAURANTS_DATA = {
-  title: 'Available Restaurant Nearby Area',
+  title: 'Available Stock',
   posts: [
     {
       image: availableRestaurantImage1,
-      title: 'Pizza Hut Delicious Pizza',
+      title: '35mm Film Cameras',
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'SLRs' },
+        { name: 'Rangefinders' },
+        { name: 'Point and Shoots' },
       ],
     },
     {
       image: availableRestaurantImage2,
-      title: 'Chipotle Mexican Grill (2675 Geary Boulevard)',
+      title: 'Medium Format Film Cameras',
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'TLRs' },
+        { name: 'Mamiya' },
+        { name: 'Yashica' },
       ],
     },
     {
       image: availableRestaurantImage3,
-      title: "McDonald's® Burgers (Fillmore)",
+      title: "Films",
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'Black and White' },
+        { name: 'Color' },
+        { name: 'Expired' },
       ],
     },
     {
       image: availableRestaurantImage4,
-      title: 'The Baked Bear San Francisco',
+      title: 'Accessories',
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'Tripods' },
+        { name: 'Filters' },
+        { name: 'Accessories' },
       ],
     },
     {
       image: availableRestaurantImage5,
-      title: 'Shake Shack  (3060 Fillmore Street)',
+      title: 'Lenses',
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'Wide Angle' },
+        { name: 'Telephoto' },
+        { name: 'Macro' },
       ],
     },
     {
       image: availableRestaurantImage6,
-      title: 'Chubby Noodle Chinese Takeout',
+      title: 'Books, Posters, and more',
       link: '#',
       categories: [
-        { name: 'American' },
-        { name: 'Fast Food' },
-        { name: 'Burgers' },
+        { name: 'Books' },
+        { name: 'Posters' },
+        { name: 'Accessories' },
       ],
     },
   ],
@@ -343,9 +339,9 @@ import bannerBtn2 from 'common/assets/image/foodDelivery/banner-google-play.svg'
 
 export const BANNER_DATA = {
   sectionImage: bannerImage,
-  title: 'India\'s favorite film camera store',
-  text: 'Cameras, films, lenses, and more available for delivery pan India.',
-  tagLine: 'Our complete catalouge is available on our instagram',
+  title: 'India\'s Premier Vintage Camera Store',
+  text: 'Discover the perfect vintage camera for your photography journey.',
+  tagLine: 'We\'re not just a camera store; we\'re a community of photographers, collectors, and enthusiasts passionate about preserving the art of analog photography.',
   buttons: [
     {
       icon: bannerBtn1,
@@ -369,7 +365,7 @@ export const MENU_ITEMS = [
     offset: '70',
   },
   {
-    label: 'Restaurants',
+    label: 'Cameras',
     path: '#restaurants',
     offset: '70',
   },
@@ -395,19 +391,19 @@ import testimonial1 from 'common/assets/image/foodDelivery/testimonials-1-1.png'
 import testimonial2 from 'common/assets/image/foodDelivery/testimonials-1-2.png';
 export const TESTIMONIALS_DATA = {
   blockImage: testimonialBlockImage,
-  title: 'What people say about us',
+  title: 'What our friends say',
   posts: [
     {
       image: testimonial1,
-      text: 'OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design.',
-      name: 'Mariana Dickey',
-      designation: 'UI Designer',
+      text: 'Found my dream Leica M3 through FCI. The expert verification and careful packaging gave me complete peace of mind. The camera exceeded my expectations!',
+      name: 'Rahul Sharma',
+      designation: 'Professional Photographer',
     },
     {
       image: testimonial2,
-      text: 'OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design.',
-      name: 'Jonathan Taylor',
-      designation: 'CEO at Creativex',
+      text: 'As a collector, I appreciate the attention to detail and authenticity verification. FCI has become my go-to source for vintage cameras.',
+      name: 'Priya Patel',
+      designation: 'Camera Collector',
     },
   ],
 };
